@@ -1,0 +1,19 @@
+# Rust build artifacts
+target/
+**/target/
+
+# Node modules
+node_modules/
+**/node_modules/
+
+# バックアップ・ログなど
+*.log
+
+# IDE設定ファイル
+.vscode/
+.idea/
+
+# 一時ファイル
+*.tmp
+*.swp
+*.bak
